@@ -4,6 +4,7 @@
 @import url('/assets/css/components/pills.css');
 @import url('/assets/css/components/link-button.css');
 @import url('/assets/css/components/gallery.css');
+@import url('/assets/css/components/sm-background.css');
 
 .s-wrapper {
     display: flex;
@@ -77,17 +78,3 @@
     flex-direction: row;
 }
 
-.s-spider-man-01-01 {
-    background-image: url('/assets/images/spiderman-tobey/movie-01/background.png'); 
-    background-size: cover;
-}
-
-.s-spider-man-01-02 {
-    background-image: url('/assets/images/spiderman-tobey/movie-02/background.png'); 
-    background-size: cover;
-}
-
-.s-spider-man-01-03 {
-    background-image: url('/assets/images/spiderman-tobey/movie-03/background.png'); 
-    background-size: cover;
-}

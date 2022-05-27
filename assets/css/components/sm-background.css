@@ -1,0 +1,29 @@
+.s-spider-man-01-01 {
+    background-image: url('/assets/images/spiderman-tobey/movie-01/background.png'); 
+    background-size: cover;
+}
+
+.s-spider-man-01-02 {
+    background-image: url('/assets/images/spiderman-tobey/movie-02/background.png'); 
+    background-size: cover;
+}
+
+.s-spider-man-01-03 {
+    background-image: url('/assets/images/spiderman-tobey/movie-03/background.png'); 
+    background-size: cover;
+}
+
+.s-spider-man-03-01 {
+    background-image: url('/assets/images/spiderman-tom/movie-01/background.png'); 
+    background-size: cover;
+}
+
+.s-spider-man-03-02 {
+    background-image: url('/assets/images/spiderman-tom/movie-02/background.png'); 
+    background-size: cover;
+}
+
+.s-spider-man-03-03 {
+    background-image: url('/assets/images/spiderman-tom/movie-03/background.png'); 
+    background-size: cover;
+}
